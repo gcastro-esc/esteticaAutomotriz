@@ -1,0 +1,26 @@
+C:\Users\Gerardo\Desktop\Practicas Windows Forms\esteticaAutomotriz\esteticaAutomotriz\bin\Debug\esteticaAutomotriz.exe
+C:\Users\Gerardo\Desktop\Practicas Windows Forms\esteticaAutomotriz\esteticaAutomotriz\bin\Debug\esteticaAutomotriz.pdb
+C:\Users\Gerardo\Desktop\Practicas Windows Forms\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.frmPrincipal.resources
+C:\Users\Gerardo\Desktop\Practicas Windows Forms\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.Properties.Resources.resources
+C:\Users\Gerardo\Desktop\Practicas Windows Forms\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.csproj.GenerateResource.Cache
+C:\Users\Gerardo\Desktop\Practicas Windows Forms\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.exe
+C:\Users\Gerardo\Desktop\Practicas Windows Forms\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.pdb
+C:\Users\Gerardo\Desktop\Practicas Windows Forms\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\Practicas Windows Forms\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.frmOrden.resources
+C:\Users\Docente\Desktop\esteticaAutomotriz\esteticaAutomotriz\bin\Debug\esteticaAutomotriz.exe
+C:\Users\Docente\Desktop\esteticaAutomotriz\esteticaAutomotriz\bin\Debug\esteticaAutomotriz.pdb
+C:\Users\Docente\Desktop\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.frmPrincipal.resources
+C:\Users\Docente\Desktop\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.frmOrden.resources
+C:\Users\Docente\Desktop\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.Properties.Resources.resources
+C:\Users\Docente\Desktop\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.csproj.GenerateResource.Cache
+C:\Users\Docente\Desktop\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.exe
+C:\Users\Docente\Desktop\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.pdb
+C:\Users\Docente\Desktop\proyectosC#\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.exe
+C:\Users\Docente\Desktop\proyectosC#\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.pdb
+C:\Users\Docente\Desktop\proyectosC#\esteticaAutomotriz\esteticaAutomotriz\bin\Debug\esteticaAutomotriz.exe
+C:\Users\Docente\Desktop\proyectosC#\esteticaAutomotriz\esteticaAutomotriz\bin\Debug\esteticaAutomotriz.pdb
+C:\Users\Docente\Desktop\proyectosC#\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.csprojResolveAssemblyReference.cache
+C:\Users\Docente\Desktop\proyectosC#\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.frmPrincipal.resources
+C:\Users\Docente\Desktop\proyectosC#\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.frmOrden.resources
+C:\Users\Docente\Desktop\proyectosC#\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.Properties.Resources.resources
+C:\Users\Docente\Desktop\proyectosC#\esteticaAutomotriz\esteticaAutomotriz\obj\x86\Debug\esteticaAutomotriz.csproj.GenerateResource.Cache
